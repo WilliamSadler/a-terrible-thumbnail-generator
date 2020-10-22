@@ -1,2 +1,2 @@
 # a-terrible-thumbnail-generator
-lmao why
+proof of concept for an actual bot that does this lmao
